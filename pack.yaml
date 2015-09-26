@@ -5,6 +5,7 @@ keywords:
   - xml
   - serialization
   - deserialization
+  - text processing
 version : 0.1
 author : st2-dev
 email : info@stackstorm.com
