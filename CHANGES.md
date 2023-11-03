@@ -1,5 +1,8 @@
 # Change Log
 
+# 1.1.0
+* Update xmltodict to >=0.13,<0.14
+  
 # 1.0.0
 
 * Drop Python 2.7 support
